@@ -1,4 +1,5 @@
 # Solution
+CREADO POR UZIEL ALMONTE 10146077
 # Práctica 2
 
 Implementación de rotación de array y ordenamiento de lista enlazada.
